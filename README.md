@@ -31,6 +31,9 @@
 
 **White.Wallet** es una aplicación web progresiva (PWA-ready) diseñada para ayudar a personas y familias a gestionar sus ahorros de manera inteligente y organizada. El sistema permite crear múltiples usuarios, definir metas de ahorro personalizables, registrar transacciones detalladas y visualizar el progreso en tiempo real.
 
+## Prueba la demo:
+https://white-wallet.vercel.app/
+
 ### ¿Para quién es esta aplicación?
 
 - 👨‍👩‍👧‍👦 **Familias** - Gestiona los ahorros de cada miembro de la familia
