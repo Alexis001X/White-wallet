@@ -1,0 +1,76 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Dependencies
+node_modules
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Environment variables (IMPORTANTE: Nunca subir al repositorio)
+.env
+.env.local
+.env.production
+.env.development
+
+# ========================================
+# Archivos de Documentación y Scripts SQL
+# ========================================
+
+# Documentación de desarrollo (no necesaria en producción)
+*.md
+!README.md
+
+# Scripts SQL y archivos de datos sensibles
+src/data/
+src/data/**/*.sql
+src/data/**/*.txt
+
+# Archivos de análisis y guías internas
+ANALISIS_SEGURIDAD.md
+CARTERA_AHORRO.md
+CORRECCION_ERROR_RLS.md
+FLUJO_AUTENTICACION.md
+GUIA_USUARIO.md
+HISTORIAL_E_IMAGENES.md
+INSTRUCCIONES_SEGURIDAD_SUPABASE.md
+MEJORAS_SEGURIDAD_APLICADAS.md
+MULTIPLES_USUARIOS.md
+PROBLEMAS_RESUELTOS.md
+SISTEMA_TRANSACCIONES.md
+SOLUCION_PIN_NULL.md
+SOLUCION_RLS.md
+SOLUCION_VERIFICACION_PIN.md
+
+# Claude Code directory
+.claude/
+
+# Build artifacts
+build/
+.vercel/
+
+# Testing
+coverage/
+.nyc_output/
+
+# Temporary files
+*.tmp
+*.temp
+.cache/
