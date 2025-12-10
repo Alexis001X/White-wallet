@@ -1340,7 +1340,7 @@ Este proyecto es de uso educativo y demostrativo.
 
 Para preguntas, problemas o sugerencias:
 
-- 📧 Email: [Crear issue en GitHub]
+- 📧 Email: alexismenadev09@gmail.com
 - 🐛 Bugs: [GitHub Issues]
 - 💡 Features: [GitHub Discussions]
 
